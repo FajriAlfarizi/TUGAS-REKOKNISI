@@ -17,3 +17,14 @@
   - output konversi suhu
   
    ![Screenshot (112)](https://user-images.githubusercontent.com/92989089/139001942-5965e968-f715-426f-bd49-c57f4ed2b36f.png)
+
+  - cara menjalankan kode program
+    - buat source kode seperti dibawah ini pada python
+
+   ![Screenshot (113)](https://user-images.githubusercontent.com/92989089/139035988-dead9b66-ab54-44d0-b706-5f5d8afea754.png)
+
+    - klik run in terminal
+
+    - output ditampilkan
+
+   ![R1](https://user-images.githubusercontent.com/92989089/139036098-6ce294e3-be0a-416b-9b53-b6c51b45ada5.png)
